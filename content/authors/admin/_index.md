@@ -32,7 +32,7 @@ education:
     year: 2018
   - course: Bachelor in Computer Science
     institution: Sukkur IBA University
-    year: 20158
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Muhammad Suffian is a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. His research interests include AI, ML, NLP and XAI.
+Muhammad Suffian is a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. He has experience of various NLP, computational linguistics and machine/deep learning projects, and interested to solve complex nature problems of the society specifically language-oriented.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
