@@ -14,47 +14,46 @@ organizations:
   url: https://www.uniurb.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence, Natural Language Processing, Computational Linguistics and and Machine Learning.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Natural Language Processing
+- Computational Linguistics
+- eXplainable artificial intelligence (XAI)
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science (NLP-ML)
+    institution: Mohammad Ali Jinnah University, Karachi
+    year: 2018
+  - course: Bachelor in Computer Science
+    institution: Sukkur IBA University
+    year: 20158
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:suffiankhursheed@gmail.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/suffian_m
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.pk/citations?user=MSrYRgEAAAAJ&hl=en&authuser=2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/msnizami
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/msuffian
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Muhammad Suffian is a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. His research interests include AI, ML, NLP and XAI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
