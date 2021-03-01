@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science (XAI-ML-DL) in progress
+    institution: University of Urbino Carlo Bo, Italy
+    year: 2020 - present
   - course: MS in Computer Science (NLP-ML)
     institution: Mohammad Ali Jinnah University, Karachi
     year: 2018
@@ -58,12 +61,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "m dot suffian at campus dot uniurb dot it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
