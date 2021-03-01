@@ -14,7 +14,7 @@ organizations:
   url: https://www.uniurb.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Natural Language Processing, Computational Linguistics and and Machine Learning.
+bio: My research interests include Artificial Intelligence, Explainable AI, Natural Language Processing, Computational Linguistics and and Machine Learning.
 
 # Interests to show in About widget
 interests:
