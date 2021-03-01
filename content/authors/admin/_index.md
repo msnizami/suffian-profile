@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science (XAI-ML-DL) in progress
     institution: University of Urbino Carlo Bo, Italy
-    year: 2020 - present
+    year: 2020 
   - course: MS in Computer Science (NLP-ML)
     institution: Mohammad Ali Jinnah University, Karachi
     year: 2018
