@@ -22,11 +22,11 @@ feature:
   name: R
 - description: 90%
   icon: python-brands
-  icon_pack: fab
+  icon_pack: fas
   name: Python
 - description: 90%
   icon: git-brands
-  icon_pack: fab
+  icon_pack: fas
   name: Github
 
 # Uncomment to use emoji icons.
