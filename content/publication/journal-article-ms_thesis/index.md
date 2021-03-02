@@ -25,6 +25,7 @@ publication: In IJACSA Journal
 publication_short: In SAI Organisation
 abstract: The Evidence-Based Medicine (EBM) is emerged as the helpful practice for medical practitioners to make decisions with available shreds of evidence along with their professional expertise. In EBM, the medical practitioners suggest the medication on the basis of underlying nformation of patients descriptions and medical records (mostly available in textual form). This paper presents a novel and efficient method for predicting the correct disease. Since these type of tasks are generally accounted as the multi-class classifying problem, therefore, a large number of records are needed, so a large number of records will be entertained in higher n-dimensional space. Our system, as proposed in this paper, will utilise the key-phrases extraction techniques to scoop out the meaningful information to reduce the size of textual dimension, and, the suite of machine learning algorithms for classifying the diseases efficiently. We
 have tested the proposed approach on "6" different diseases i.e. Asthma, Hypertension, Diabetes, Fever, Abdominal issues, and Heart problems over  the dataset of 690 patients. With key-phrases tested in the range features, SVM has shown the highest ("93.34%", "95%") F1-score and accuracy.
+
 summary: In this paper, will utilise the key-phrases extraction techniques to scoop out the meaningful information to reduce the size of textual dimension, and, the suite of machine learning algorithms for classifying the diseases efficiently.
 
 tags:
@@ -32,7 +33,8 @@ featured: true
 
 links:
 - name: View here
-  url: "https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76"
+  url: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76
+url_pdf: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
