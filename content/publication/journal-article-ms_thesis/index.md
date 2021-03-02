@@ -34,7 +34,7 @@ featured: true
 
 links:
 - name: View here
-  url: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76
+  url: "https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76"
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
