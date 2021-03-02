@@ -34,11 +34,18 @@ experience:
         * Research on XAI
         * Analysing Formal Models and Scientific Computing
         
-  - title: Lecturer
+  - title: Lecturer (on leave)
     company: National University FAST, CFD campus
     company_url: 'http://cfd.nu.edu.pk/faculty/muhammad-suffian/'
     location: Pakistan
     date_start: '2020-01-27'
     date_end: '2021-01-01'
+    description: Taught theory of computation, NLP, and core computing courses.
+  - title: Junior Lecturer
+    company: Mohammad Ali Jinnah University, Karachi
+    company_url: 'https://www.jinnah.edu.pk/'
+    location: Pakistan
+    date_start: '2016-02-09'
+    date_end: '2020-01-23'
     description: Taught theory of computation, NLP, and core computing courses.
 ---
