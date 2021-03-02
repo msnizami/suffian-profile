@@ -31,14 +31,9 @@ publication_types: ["2"]
 publication: In *Springer Conference*
 publication_short: In *INTAP 19*
 
-abstract: The lexical similarity measures of the languages are used to find genetic affinity among them—as the languages come closer in language tree, chances increase to have more cognates in common. In this regard, this paper describes a tool to calculate the lexical similarity between pairs of languages. We used the words present in Universal Dependency (UD) corpora to find lexical similarities of the words. Since, many of languages in the UD corpora share the same scheme of part of speech (PoS) tag-set; we got the lists of words, corresponding to standard set of PoS tags. The tool can compare words of particular PoS tags for two different languages. Hence, we can calculate lexical similarity not only for the whole language but also for the specific PoS or a subset of PoS. Further, a user can compare function-words to find genetic affinity, nouns, and
-proper nouns to find borrowing or the loan-words. Moreover, this tool is more flexible than using either all of the words or a list (e.g., Swadesh list).
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: The lexical similarity measures of the languages are used to find genetic affinity among them—as the languages come closer in language tree, chances increase to have more cognates in common. In this regard, this paper describes a tool to calculate the lexical similarity between pairs of languages. We used the words present in Universal Dependency (UD) corpora to find lexical similarities of the words. Since, many of languages in the UD corpora share the same scheme of part of speech (PoS) tag-set; we got the lists of words, corresponding to standard set of PoS tags. The tool can compare words of particular PoS tags for two different languages. Hence, we can calculate lexical similarity not only for the whole language but also for the specific PoS or a subset of PoS. Further, a user can compare function-words to find genetic affinity, nouns, and proper nouns to find borrowing or the loan-words. Moreover, this tool is more flexible than using either all of the words or a list (e.g., Swadesh list).
 
 tags:
-- Source Themes
 featured: true
 
 links:
