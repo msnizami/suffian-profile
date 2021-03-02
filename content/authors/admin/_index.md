@@ -14,7 +14,7 @@ organizations:
   url: https://www.uniurb.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Natural Language Processing, Computational Linguistics and and Machine Learning.
+bio: My research interests include Artificial Intelligence, Natural Language Processing, Computational Linguistics and Machine Learning.
 
 # Interests to show in About widget
 interests:
@@ -72,6 +72,6 @@ email: "m dot suffian at campus dot uniurb dot it"
 highlight_name: false
 ---
 
-Muhammad Suffian is a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. He has experience of various NLP, computational linguistics and machine/deep learning projects, and interested to solve complex nature problems of the society specifically language-oriented.
+I am a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. I have experience of various NLP, computational linguistics and machine/deep learning projects, and interested to solve complex nature problems of the society specifically in AI.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
