@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 doi: "10.14569/IJACSA.2018.090976"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-09-09T00:00:00Z"
+publishDate: "2018-09-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ summary: In this paper, will utilise the key-phrases extraction techniques to sc
 tags:
 featured: true
 
-links:
+links: ""
 - name: View here
   url: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76
 url_pdf: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=76
