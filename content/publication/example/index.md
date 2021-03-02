@@ -37,24 +37,23 @@ proper nouns to find borrowing or the loan-words. Moreover, this tool is more fl
 # Summary. An optional shortened abstract.
 summary: This paper describes a tool to calculate the lexical similarity between pairs of languages. We used the words present in Universal Dependency (UD) corpora to find lexical similarities of the words.
 
-tags: []
-
+tags:
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
   - name: Link
-  -  url: https://link.springer.com/chapter/10.1007%2F978-981-15-5232-8_42
+    url: https://link.springer.com/chapter/10.1007%2F978-981-15-5232-8_42
 
 url_pdf: 'https://www.researchgate.net/profile/Muhammad-Yaseen-Khan/publication/335600557_Towards_a_Generic_Approach_for_PoS_Tag-wise_Lexical_Similarity_of_Languages/links/5dc27074299bf1a47b191617/Towards-a-Generic-Approach-for-PoS-Tag-wise-Lexical-Similarity-of-Languages.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: '#'
+url_slides: '#'
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
