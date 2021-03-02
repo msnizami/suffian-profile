@@ -7,3 +7,4 @@ title: About me
 active: true
 author: admin
 ---
+Here go the testing and checking of the new text.
