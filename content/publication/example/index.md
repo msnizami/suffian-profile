@@ -33,25 +33,28 @@ publication_short: In *INTAP 19*
 
 abstract: The lexical similarity measures of the languages are used to find genetic affinity among them—as the languages come closer in language tree, chances increase to have more cognates in common. In this regard, this paper describes a tool to calculate the lexical similarity between pairs of languages. We used the words present in Universal Dependency (UD) corpora to find lexical similarities of the words. Since, many of languages in the UD corpora share the same scheme of part of speech (PoS) tag-set; we got the lists of words, corresponding to standard set of PoS tags. The tool can compare words of particular PoS tags for two different languages. Hence, we can calculate lexical similarity not only for the whole language but also for the specific PoS or a subset of PoS. Further, a user can compare function-words to find genetic affinity, nouns, and proper nouns to find borrowing or the loan-words. Moreover, this tool is more flexible than using either all of the words or a list (e.g., Swadesh list).
 
+# Summary. An optional shortened abstract.
+summary: This paper describes a tool to calculate the lexical similarity between pairs of languages. We used the words present in Universal Dependency (UD) corpora to find lexical similarities of the words.
+
 tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: View here
+  url: https://link.springer.com/chapter/10.1007%2F978-981-15-5232-8_42
+url_pdf: https://www.researchgate.net/profile/Muhammad-Yaseen-Khan/publication/335600557_Towards_a_Generic_Approach_for_PoS_Tag-wise_Lexical_Similarity_of_Languages/links/5dc27074299bf1a47b191617/Towards-a-Generic-Approach-for-PoS-Tag-wise-Lexical-Similarity-of-Languages.pdf
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit admin'
   focal_point: ""
   preview_only: false
 
@@ -60,15 +63,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
