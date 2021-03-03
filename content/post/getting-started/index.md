@@ -1,5 +1,5 @@
 ---
-title: Welcome to Muhammad Suffian's posts page
+title: Welcome on our posts
 subtitle: This page is under construction of different posts. stay tuned for the interesting posts on technology and life.
 
 # Summary for listings and search engines
