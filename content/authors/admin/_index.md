@@ -70,7 +70,6 @@ email: "m dot suffian at campus dot uniurb dot it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
 I am a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. I have experience of various NLP, computational linguistics and machine/deep learning projects, and interested to solve complex nature problems of the society specifically in AI.
 
@@ -81,3 +80,5 @@ Recent works:
 - Working on a research project in the area of explainable artificial intelligence. This work is supposed to be submitted in ACL'21.
 - Working on a neural network based character level transliteration of punjabi language specifically on its two main scripts.
 - Recently published a work on similarities of hindustani languages, mainly Urdu and Hindi.
+
+---
