@@ -1,21 +1,19 @@
 ---
-title: "Hindustani or Hindi vs. Urdu: A Computational
-Approach for the Exploration of Similarities Under
-Phonetic Aspects"
+title: "Developing Disease Classification System based on Keyword Extraction and Supervised Learnings"
 authors:
 - admin
-- Tafseer Ahmed
 - Muhammad Yaseen Khan
+- Shaukat Wast
 
 author_notes:
 - "Main contribution"
-- "Lab head contribution"
-- "Lab member contribution"
-date: "2020-09-01T00:00:00Z"
+- "co-supervisor contribution"
+- "supervisor contribution"
+date: "2018-09-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-01T00:00:00Z"
+publishDate: "2018-10-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,17 +25,17 @@ publication_types: ["2"]
 publication: In *IJACSA Journal*
 publication_short: In *SAI Organisation*
 
-abstract: The semantic coexistence is the reason to adopt the language spoken by other people. In such human habitats, different languages share words typically known as loan words which appears not only as of the principal medium of enriching language vocabulary but also for creating influence upon each other for building stronger relationships and forming multilingualism. In this context, the spoken words are usually common but their writing scripts vary or the language may have become a digraphia. In this paper, we presented the similarities and relatedness between Hindi and Urdu (that are mutually intelligible and major languages of Indian sub-continent). In general, the method modifies edit-distance; and works in the fashion that instead of using alphabets from the words it uses articulatory features from the International Phonetic Alphabets (IPA) to get the phonetic edit distance. This paper also shows the results for the languages consonant under the method which quantifies the evidence that the Urdu and Hindi languages are 67.8% similar on average despite the script differences.
+abstract: The Evidence-Based Medicine (EBM) is emerged as the helpful practice for medical practitioners to make decisions with available shreds of evidence along with their professional ex-pertise. In EBM, the medical practitioners suggest the medication on the basis of underlying information of patients descriptions and medical records (mostly available in textual form). This paper presents a novel and efficient method for predicting the correct disease. Since these type of tasks are generally accounted as the multi-class classifying problem, therefore, a large number of records are needed, so a large number of records will be entertained in higher n-dimensional space. Our system, as proposed in this paper, will utilise the key-phrases extraction techniques to scoop out the meaningful information to reduce the size of textual dimension, and, the suite of machine learning algorithms for classifying the diseases efficiently. We have tested the proposed approach on 6 different diseases i.e. Asthma, Hypertension, Diabetes, Fever, Abdominal issues, and Heart problems over the dataset of 690 patients. With key-phrases tested in the range [3,7] features, SVM has shown the highest (93.34%, 95%) F1-score and accuracy.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we presented the similarities and relatedness between Hindi and Urdu (that are mutually intelligible and major languages of Indian sub-continent). In general, the method modifies edit-distance.
+summary: This paper presents a novel and efficient method for predicting the correct disease.
 
 tags:
 featured: true
 
 links:
 - name: View here
-  url: https://thesai.org/Publications/ViewPaper?Volume=11&Issue=11&Code=IJACSA&SerialNo=91
+  url: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=IJACSA&SerialNo=76
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -49,7 +47,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit:Minna Sundberg'
+  caption: 'Image credit:admin'
   focal_point: ""
   preview_only: false
 
