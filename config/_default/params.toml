@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = false, page = false, post = true, project = true, publication = true, talk = false}
 
 ############################
 ## Contact details
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "suffian-pic"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "suffian_m"
@@ -175,7 +175,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = true
+  gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
