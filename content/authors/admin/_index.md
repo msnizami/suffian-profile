@@ -16,13 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Natural Language Processing, Computational Linguistics and Machine Learning.
 
-#recent news and upcming seminars or papers
-Recent works:
-- Working on a research project in the area of explainable artificial intelligence. This work is supposed to be submitted in ACL'21.
-- Working on a neural network based character level transliteration of punjabi language specifically on its two main scripts.
-- Recently published a work on similarities of hindustani languages, mainly Urdu and Hindi.
-- 
-
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
@@ -82,3 +75,9 @@ highlight_name: true
 I am a PhD Scholar of artificial intelligence at the University of Urbino Carlo Bo, Italy. I have experience of various NLP, computational linguistics and machine/deep learning projects, and interested to solve complex nature problems of the society specifically in AI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+#recent news and upcming seminars or papers
+Recent works:
+- Working on a research project in the area of explainable artificial intelligence. This work is supposed to be submitted in ACL'21.
+- Working on a neural network based character level transliteration of punjabi language specifically on its two main scripts.
+- Recently published a work on similarities of hindustani languages, mainly Urdu and Hindi.
